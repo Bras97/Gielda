@@ -1,0 +1,48 @@
+Ropa Naftowa 	Baryłka	61.90	52.54	71.25928	Złoty
+Brent 	Sztuka	67.96	54.69	81.23234894	Złoty
+Gaz Ziemny 	Litr	2.88	3.23	2.52952234	Złoty
+Benzyna 	Litr	1.80	1.62	1.98452224	Złoty
+Olej Opałowy 	Litr	2.07	1.61	2.53722	Złoty
+Etanol 	Litr	1.31	1.48	1.14087512	Złoty
+Naphtha 	Litr	594.81	474.18	715.437468	Złoty
+Propane 	Litr	0.98	0.60	1.360926	Złoty
+Złoto 	Uncja	1322.44	1163.35	1481.529532	Złoty
+Srebro 	Uncja	17.20	16.54	17.86786668	Złoty
+Platyna 	Uncja	960.99	967.62	954.359169	Złoty
+Palladium 	Uncja	1099.50	567.34	1631.658	Złoty
+Soja 	Tona	960.68	1001.71	919.6630804	Złoty
+Pszenica 	Tona	434.22	426.10	442.336756	Złoty
+Bawełna 	Tona	79.25	73.38	85.122425	Złoty
+Ryż	Tona	11.45	9.60	13.3038048	Złoty
+Cheese 	Tona	1.52	1.67	1.3717661	Złoty
+Palm Oil 	Tona	2542.00	3064.64	2019.3648	Złoty
+Milk 	Litr	14.05	16.19	11.912995	Złoty
+Cukier 	Tona	15.29	19.33	11.250382	Złoty
+Kawa 	Litr	129.50	142.29	116.7054	Złoty
+Tarcica 	Tona	454.60	253.76	655.44228	Złoty
+Tea 	Tona	3.15	3.54	2.76381	Złoty
+Kakao 	Tona	1885.00	2182.45	1587.547	Złoty
+Owies 	Tona	244.97	236.17	253.7624548	Złoty
+Wełna 	Tona	1765.00	1230.91	2299.089	Złoty
+Guma 	Tona	207.30	256.66	157.94187	Złoty
+Sok Pomarańczowy 	Litr	138.90	176.74	101.06364	Złoty
+Olej Rzepakowy 	Litr	497.60	497.70	497.50048	Złoty
+Kukurydza 	Tona	351.45	360.98	341.9289156	Złoty
+Żywiec Wołowy 	Tona	122.25	114.62	129.8784	Złoty
+Wołowina 	Tona	10.37	10.31	10.430146	Złoty
+Pasza dla Bydła 	Tona	148.80	124.70	172.908505	Złoty
+Wieprzowina 	Tona	71.60	63.82	79.370217	Złoty
+Poultry 	Tona	3.57	4.00	3.139101	Złoty
+Miedź	Uncja	3.24	2.33	4.1443452	Złoty
+Stal 	Uncja	4231.00	2510.68	5951.3246	Złoty
+Bitumen 	Sztuka	2482.00	2433.10	2530.8954	Złoty
+Molibden 	Gram	15750.00	14962.50	16537.5	Złoty
+Węgiel 	Tona	104.00	81.80	126.204	Złoty
+Ołów 	Tona	2578.50	1830.22	3326.7807	Złoty
+Aluminium 	Tona	2228.00	1513.48	2942.5196	Złoty
+Cyna 	Tona	19900.00	20920.87	18879.13	Złoty
+Cynk 	Tona	3359.00	2285.13	4432.8723	Złoty
+Nikiel 	Tona	12561.50	9110.86	16012.14405	Złoty
+Kobalt 	Tona	75.25	22.40	172.901925	Złoty
+Ruda Zelaza 	Tona	75.50	76.49	74.51095	Złoty
+Lithium 	Tona	151.99	57.65	246.330193	Złoty
