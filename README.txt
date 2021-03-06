@@ -1,4 +1,4 @@
-Adam Zieliński - projekt studencki
+Adam Zieliński - projekt studencki (pierwszy projekt w JAVA)
 
 Dostęp do wszystkich obiektów na giełdzie realizowany jest poprzez zakładki w pasku Menu. Aby otrzymać informację o inwestorze lub funduszu wystarczy kliknąć myszką odpowiednią pozycję na liście. 
 Przy pozostałych rodzajach bytów na giełdzie, dostęp do informacji realizowany jest poprzez wybranie elementu z listy i kliknięcie przycisku "Info". Po wejściu w informacje, będzie istnieć możliwość usunięcia obiektu.
